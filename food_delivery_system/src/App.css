@@ -1,0 +1,30 @@
+#img{
+  margin-left: 100px;
+}
+
+#botton {
+  border-radius: 30px;
+  border-color: #09d3ac;
+  color: #09d3ac;
+  margin-left: 25px;
+}
+
+#set{
+  border-radius: 30px;
+  border-color: #09d3ac;
+  color: #09d3ac;
+  margin-left: 500px;
+}
+
+.marginleft {
+  margin-left: 10px;
+}
+
+.rating {
+  background: #107020;
+  color: white;
+  width: 60px;
+  height: 30px;
+  text-align: center;
+  border-radius: 6px;
+}
