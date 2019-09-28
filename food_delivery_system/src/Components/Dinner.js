@@ -1,8 +1,8 @@
 import React from 'react';
 
 
-function Dinner() {
-    let  ravi = props.input.map(a =>{
+function Dinner(props) {
+    let  ravi = props.input2.map(a =>{
         return <div className="m-2">
                 <div class="card" style={{width: "24rem"}}>
                     <img src={a.image} class="card-img-top" alt="..." style={{width:"382px",height:"300px"}}/>
